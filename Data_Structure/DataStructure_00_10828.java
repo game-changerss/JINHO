@@ -1,4 +1,4 @@
-package org.example.dataStructure;
+package DataStructure;
 
 import java.io.*;
 import java.util.EmptyStackException;

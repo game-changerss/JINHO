@@ -1,4 +1,4 @@
-package org.example.dataStructure;
+package DataStructure;
 
 import java.io.*;
 import java.util.Deque;
@@ -6,7 +6,7 @@ import java.util.HashMap;
 import java.util.LinkedList;
 import java.util.Map;
 
-public class DataStructure_08_2346__ {
+public class DataStructure_08_2346 {
     public void main() throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
